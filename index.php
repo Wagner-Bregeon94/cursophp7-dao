@@ -4,7 +4,7 @@ require_once("config.php");
 
 $root = new Usuario();
 
-$root->loadbyId(3);
+$root->loadbyId(4);
 
 echo $root;
 
